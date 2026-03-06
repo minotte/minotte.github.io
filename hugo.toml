@@ -1,6 +1,6 @@
-baseURL = 'https://minotte.github.io/'
-languageCode = 'en-us'
-title = 'Portfolio'
+baseURL = "https://minotte.github.io/"
+languageCode = "en-us"
+title = "Portfolio"
 theme="hugo-developer-portfolio"
 
 [params.plugins]
@@ -38,5 +38,4 @@ author = "Minotte"
 
   # This contains the contact information for the footer
   [params.footer]
-  email = "@gmail.com"
   address = "Bordeaux, FR"
