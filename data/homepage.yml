@@ -1,0 +1,24 @@
+banner:
+  title: Hello! I’m Minotte
+
+
+skill:
+  enable: true
+  item:
+    - title: C
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: C++
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Python
+      logo: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
+      description: Details coming soon, contact me if you want to know more
+
+education:
+  enable: true
+  item:
+    - title:  EXPERT EN ARCHITECTURE INFORMATIQUE
+      year: 2022 - Present
+      academy: 42 School 
+      image: http://42angouleme.fr/wp-content/uploads/2022/02/Logo-ecole-42-ANG-V1@2x-300x83.png
