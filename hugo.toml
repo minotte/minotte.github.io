@@ -30,17 +30,13 @@ theme="hugo-developer-portfolio"
 
 
   [params]
-home = "Home" # What you want the homepage to show up as in the menu bar
+home = "Home"
 # Meta data
 description = "Portfolio of Minotte, student at 42 school"
 author = "Minotte"
 
 
-  [params.contact]
-  formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
-
   # This contains the contact information for the footer
   [params.footer]
   email = "@gmail.com"
   address = "Bordeaux, FR"
-  googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
